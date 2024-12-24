@@ -1,8 +1,9 @@
 """
 YouTube Content Downloader
 
-This script provides functionality to download video or audio content from YouTube using yt-dlp.
-I perseonally limited the video quality to 1080p and audio to M4A format, but you can customize it.
+Downloads audio or video using yt-dlp.
+Tried not to use any libary heavy tools.
+I personally limited the video quality to 1080p and audio to M4A format, but you can customize it.
 
 Usage:
     python youtube_download.py <youtube_url> [audio (if you want the audio only)]
