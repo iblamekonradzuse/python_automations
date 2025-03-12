@@ -1,0 +1,4 @@
+[flake8]
+# Ignore specific warning codes
+ignore = E501, W291  # Ignore line length and trailing whitespace
+max-line-length = 88  # Set max line length to 88 characters

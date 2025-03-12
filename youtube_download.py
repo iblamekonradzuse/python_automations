@@ -23,7 +23,6 @@ BASE_AUDIO_PATH = os.path.join(os.path.expanduser("~"), "Downloads", "youtube_au
 def ensure_download_directories():
     """
     Create download directories if they don't exist.
-    
     Creates two directories:
     - ~/Downloads/youtube_videos: For video content
     - ~/Downloads/youtube_audio: For audio content
