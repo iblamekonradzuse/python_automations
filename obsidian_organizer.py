@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# script to organize markdown files based on tags 
 import os
 import re
 import shutil
